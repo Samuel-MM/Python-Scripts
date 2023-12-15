@@ -29,5 +29,5 @@ Finally, run:
 - [x] Total Precipitation
 - [x] UV
 
-> You can add get more parameters to show following this: 
+> You can add more parameters to show following this: 
 > [Weather API Swagger](https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2#/APIs/forecast-weather)
